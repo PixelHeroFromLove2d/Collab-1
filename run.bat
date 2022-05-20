@@ -1,1 +1,0 @@
-"D:\LOVE\love.exe" "%cd%"
